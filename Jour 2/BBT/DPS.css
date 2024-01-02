@@ -1,0 +1,30 @@
+body{
+    background-image: url(Victory_A.png); 
+    height: 950px;
+    background-position: center;
+    background-repeat:repeat
+}
+h1 {
+    color: #63d297;
+    font-family:  'proxima-nova', sans-serif;
+    text-align: right;
+    margin-right: 15%;
+    font-size: 40px}
+.l {
+    font-size: 40px;
+    margin-left: 65%;
+    margin-top: -1%;
+
+}
+.u {
+    font-size: 30px;
+    margin-left: 65%;
+}
+.n {
+   font-size: 25px;
+   margin-left: 65%;
+}
+.z {
+    margin-left: 90%;
+    position: relative; bottom: 250PX;
+}

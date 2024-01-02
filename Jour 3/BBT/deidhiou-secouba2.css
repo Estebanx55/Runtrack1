@@ -1,0 +1,34 @@
+body{
+    background-image: url(Victory_A.png); 
+    height: 950px;
+    background-position: center;
+    background-repeat:repeat;
+    background-color: black;
+}
+h1 {
+    color:blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: right;
+    margin-right: 15%;
+    font-size: 40px}
+.l {
+    font-size: 40px;
+    margin-left: 65%;
+    margin-top: -1%;
+    color:green;
+}
+.u {
+    font-size: 30px;
+    margin-left: 65%;
+    color:green;
+}
+.n {
+   font-size: 25px;
+   margin-left: 65%;
+   color:green;
+}
+.z {
+    margin-left: 90%;
+    position: relative; bottom: 250PX;
+    color:green;
+}

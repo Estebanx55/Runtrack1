@@ -1,0 +1,19 @@
+h1 {
+    text-align:center;
+    color:white;
+    background-color:black;
+    font-size: 300%;
+}
+h2{
+    background-color: gray;
+    text-decoration: underline;
+}
+.e {
+    font-size: 200%;    
+}
+img {
+    width: 4%;
+    position: fixed; 
+    left: 1050PX;
+    top: 69px;
+}

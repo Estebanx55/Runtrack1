@@ -1,0 +1,32 @@
+body {
+    background-image:url(ScreenShot-2023-10-31_00-56-49-42E.jpg) ;
+}
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 70px;
+}
+.f {
+    text-align:center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.v {
+    text-align:center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px
+}
+.b {
+    text-align:center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.n {text-align:right;
+    color: white;
+    font-family: proxima nova;
+    font-size: 40px;
+}

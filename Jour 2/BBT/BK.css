@@ -1,0 +1,38 @@
+h1 {
+    color: #741b47;
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Proxima Nova Condensed', sans-serif;
+}
+.n {
+    font-size: 50px;
+    font-family: 'Proxima Nova Condensed', sans-serif;
+    position: relative;
+    bottom: -70px;
+    left: 50px;
+}
+.l {
+    position: relative; 
+    top: -100px; 
+    right: -500px;
+}
+.s {
+    position: relative;
+    top: -140px;
+     right: -850px
+}
+.e {
+    font-size: 50px;
+    font-family: 'Proxima Nova Condensed', sans-serif;
+    position:relative;left:400px;
+}
+.p {
+    position: relative; left:900px;
+    font-size: 50px;
+    font-family: 'Proxima Nova Condensed', sans-serif;
+}
+.c {
+    position: relative;
+    margin-left: 1250px; 
+    top: -200px;
+}
